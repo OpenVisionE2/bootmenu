@@ -23,6 +23,7 @@
 "OpenPLi 8.x enigma2","http://downloads.openpli.org/emmc/sf8008"
 "AREADELTASAT 10.3 r19 Py3 enigma2","https://images.areadeltasat.net/builds/sf8008/areadeltasat-10.3-r19-sf8008_multiboot.zip"
 "AREADELTASAT 9.3 r19 enigma2","https://images.areadeltasat.net/builds/sf8008/areadeltasat-9.3-r19-sf8008_multiboot.zip"
+"COBRALIBEROSAT-TEAM 8.3 enigma2","https://images.cobraliberosat.net/builds/sf8008/cobraliberosat-Team-sf8008_multiboot.zip"
 "OpenVision 12.2 enigma2 develop","https://images.openvision.dedyn.io/current.php?open=sf8008&type=usb"
 "Octagon Define 6.4 OS V1.06.22 linuxos","http://define-sw.dyndns.tv/octagon/sf8008/octagon_sf8008-v1.06.22_20230322_mmc.zip"
 "Latest Recovery Menu v1.0 06.24.2020","http://source.mynonpublic.com/definesat/latest-apploader.zip"
