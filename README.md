@@ -30,4 +30,3 @@ The kernel will be shared with the linux 1, 2, 3 or 4 image, depending on which 
 
 It wasn't a rule that images must be Open Source to be able to put their names here.
 Suddenly some OE-A members decided to drop some images (Not even considering how much they contributed to OE-A and Open Source) with the label "Closed" and keep some really "Closed" ones.
-Better not to rely on such people.
